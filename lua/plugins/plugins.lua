@@ -4,5 +4,7 @@ return {
 	"jiangmiao/auto-pairs",
 	"Mr-Destructive/commenter.vim",
 	"preservim/nerdtree",
-	{ "neoclide/coc.nvim", branch = "release" }
+	{ "neoclide/coc.nvim", branch = "release" },
+	"sheerun/vim-polyglot",
+	--"split-term.vim"
 }
